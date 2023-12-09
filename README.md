@@ -8,7 +8,7 @@ el admin cuenta con un dashboard donde puede ver la cantidad de publico registra
 entre otras funciuonalidades.</p>
 
 <h2>Pagina principal</h2>
-<img class="mx-auto rounded-circle" src="assets/img/pagina-principal.png" alt="..." />
+<img class="mx-auto rounded-circle" src="https://github.com/andersoncassiani/splavia-evento/blob/main/public/assets/img/pagina-principal.png" alt="..." />
 
 <h2>Como correr el proyecto:</h2>
 
